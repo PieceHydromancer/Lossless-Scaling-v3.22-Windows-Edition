@@ -1,7 +1,6 @@
-<img width="263" height="33" alt="image" src="https://github.com/user-attachments/assets/c0a76982-a5a6-4b25-990d-91909d6a02bd" />
-
 <img width="1536" height="1024" alt="20260223_1427_Image Generation_simple_compose_01kj5zgmhrfc9vh2vph9h2pb9y(1)" src="https://github.com/user-attachments/assets/62d7ab56-60c1-4179-9efc-8b01b72ca4ed" />
 
+<img width="1387" height="365" alt="image" src="https://github.com/user-attachments/assets/244e5116-21e8-4682-92d7-834b8796e967" />
 
 # 🟨 Lossless Scaling v3.22 – Windows Edition
 
